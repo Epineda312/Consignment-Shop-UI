@@ -1,0 +1,5 @@
+c:\Projects\ConsignmentShopUI2\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+c:\Projects\ConsignmentShopUI2\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+c:\Projects\ConsignmentShopUI2\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+c:\Projects\ConsignmentShopUI2\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
+c:\Projects\ConsignmentShopUI2\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojResolveAssemblyReference.cache
